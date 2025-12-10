@@ -4,11 +4,6 @@ Altair is an **AI-driven intelligence analysis platform** designed to reveal hid
 
 ---
 
-## Mission
-To transform publicly available information into **strategic knowledge**, bridging **AI, graph analysis, and OSINT** to empower research, cybersecurity, and intelligence-driven decision-making.
-
----
-
 ## Features
 
 - **OSINT Data Collection:** Aggregates structured and unstructured datasets from multiple public sources.
