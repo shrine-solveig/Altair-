@@ -22,8 +22,3 @@ To transform publicly available information into **strategic knowledge**, bridgi
 
 ## Tech Stack
 Python | Neo4j | NetworkX | Streamlit / React | spaCy | HuggingFace Transformers | GitHub |
-
----
-
-## Why Altair?
-Altair isn’t just a platform — it’s a **research prototype for the next generation of intelligence analysis**. It combines **technical sophistication, AI-powered insights, and investigative rigor**, making it a perfect showcase of creativity, problem-solving, and cutting-edge research for university applications or portfolio presentation.
